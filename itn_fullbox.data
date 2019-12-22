@@ -1,0 +1,5 @@
+classes= 11
+train  = itn_fullbox/train_images_perfix.csv
+valid  = itn_fullbox/valid_images_perfix.csv
+names  = itn_fullbox/itn_fullbox.names
+backup = /content/gdrive/My\ Drive/backup
